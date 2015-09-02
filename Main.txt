@@ -1,1 +1,9 @@
-One
+To make changes to the submodule from the main:
+
+1. Make changes to shared files
+2. Open the repo at main/Shared/submodule
+3. Commit/push changes
+4. Open the repo at main
+5. Commit the submodule change
+
+Source: https://git-scm.com/book/en/v2/Git-Tools-Submodules
