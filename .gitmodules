@@ -1,0 +1,3 @@
+[submodule "Shared/submodule-sub"]
+	path = Shared/submodule-sub
+	url = git@github.com:MrScruffy04/submodule-sub.git
